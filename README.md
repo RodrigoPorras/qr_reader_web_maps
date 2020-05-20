@@ -1,16 +1,25 @@
-# qr_reader_app
+# QR Scanner App
 
-A new Flutter project.
+Flutter app for scan QR codes and get web pages or position in a map
 
-## Getting Started
+- SQLite
+- BottonNavigationBar
+- FloatingActionButton
+- Bloc Pattern
+- URL launcher
+- Mapbox
+- Mixins 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Scan a QR with a map position
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/RodrigoPorras/qr_reader_web_maps/blob/master/gifs/map.gif" height="500" />
+<img src="https://github.com/RodrigoPorras/qr_reader_web_maps/blob/master/gifs/map2.gif" height="500" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Scan a QR with a URL
+
+<img src="https://github.com/RodrigoPorras/qr_reader_web_maps/blob/master/gifs/page.gif" height="500" />
+
+Deleting 
+
+<img src="https://github.com/RodrigoPorras/qr_reader_web_maps/blob/master/gifs/deleting.gif" height="500" />
